@@ -15,7 +15,7 @@ I also bring over four years of experience in restaurant operations, where I've 
 | Analytics & BI | Power BI, DAX, Power Query, Excel |
 | Programming | SQL, T-SQL, Python, JavaScript, TypeScript |
 | Data engineering | ETL/ELT, PySpark, Spark SQL, data profiling, data quality, dimensional modeling |
-| Databases | SQL Server, PostgreSQL, MongoDB |
+| Databases | SQL Server, PostgreSQL, MongoDB, Databricks |
 | Development tools | Git, GitHub, Docker, React, Node.js |
 
 *This toolkit reflects coursework, hands-on projects, and technologies I'm actively learning—not a claim of equal proficiency across all of them.*
