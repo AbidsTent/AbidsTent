@@ -1,6 +1,6 @@
 # Hi, I'm Abid Sharier 👋
 
-**Data Analytics · Business Intelligence · Data Engineering**
+** Data Engineering · Data Analytics · Business Intelligence**
 
 I'm a Computer Science graduate from Toronto Metropolitan University, based in Toronto, Canada. I build projects that turn raw data into trustworthy datasets, clear business metrics, and useful reporting.
 
